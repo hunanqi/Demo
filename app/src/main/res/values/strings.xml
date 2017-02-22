@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="btn_okhttp_mainActivity">okhttp测试</string>
+    <string name="btn_eventBus_mainActivity">EventBus测试</string>
+    <string name="btn_test_eventBusActivity">改变按钮名字</string>
+    <string name="btn_retrofit_mainActivity">retrofit测试</string>
+    <string name="btn_glidetest_mainActivity">glide图片加载测试</string>
+    <string name="btn_tab_mainActivity">tab动画效果</string>
+    <string name="btn_recycler_mainActivity">rc_adapter+下拉刷新+Rxandroid框架测试</string>
+    <string name="btn_greendao_mainActivity">greendao测试</string>
+    <string name="btn_mpa_mainActivity">MPA图表测试</string>
+    <string name="btn_jcvp_mainActivity">jcvp播放器测试</string>
+    <string name="btn_realm_mainActivity">realm测试</string>
+    <string name="btn_query_greenDaoActivity">查询</string>
+    <string name="btn_update_greenDaoActivity">修改</string>
+    <string name="btn_delete_greenDaoActivity">删除</string>
+    <string name="btn_add__greenDaoActivity">添加</string>
+    <string name="title_activity_mpa">MpaActivity</string>
+</resources>
