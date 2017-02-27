@@ -27,7 +27,7 @@ public class EventBusActivity extends BaseActivity {
         setContentView(R.layout.activity_event_bus);
         ButterKnife.bind(this);
     }
-
+    //EventBus接受类
     @OnClick(R.id.btn_test_eventBusActivity)
     public void onClick() {
         EventTestEntity testEntity=new EventTestEntity();
